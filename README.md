@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vaib-p">
-    <img width="100%" alt="Hello, I'm vaibhav pawar" src="./baner.png" />
+    <img width="100%" alt="Hello, I'm Dhanashri Ghadage" src="./baner.png" />
   </a>
 </p>
 
@@ -22,11 +22,12 @@
 
 <br/>
 <p align="center">
-<a href="https://github.com/vaib-p">
-  <img height="180" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaib-p&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
+<a href="https://github.com/Dhanu0407">
+  <img height="180" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanu0407&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
 </a>
-<a href="https://github.com/vaib-p">
-  <img height="180" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api?username=vaib-p&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" />
+<a href="https://github.com/Dhanu0407">
+  <img height="180" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api?username=
+    Dhanu0407&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" />
 </a>
 </p>
 <br/>
@@ -34,9 +35,9 @@
 ### Top Repositories:
 <br/>
 <p align="center">
-<a href="https://github.com/vaib-p/LGMVIP-DataScience">
-  <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=LGMVIP-DataScience&theme=radical" />
+<a href="https://github.com/Dhanu0407/LGMVIP-DataScience">
+  <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanu0407&repo=LGMVIP-DataScience&theme=radical" />
 </a>
 <a href="https://github.com/vaib-p/TextUtils">
-  <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=TextUtils&theme=radical" />
+  <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanu0407&repo=TextUtils&theme=radical" />
 </p>
