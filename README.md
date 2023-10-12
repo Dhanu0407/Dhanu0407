@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Dhanu0407">
-    <img width="100%" alt="Hello, I'm Dhanashri Ghadage" src="./baner.png" />
+    <img width="100%" alt="Hello, I'm Dhanashri Ghadage" src="./banner.png" />
   </a>
 </p>
 
@@ -26,8 +26,7 @@
   <img height="180" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanu0407&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
 </a>
 <a href="https://github.com/Dhanu0407">
-  <img height="180" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api?username=
-    Dhanu0407&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" />
+  <img height="180" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanu0407&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" />
 </a>
 </p>
 <br/>
