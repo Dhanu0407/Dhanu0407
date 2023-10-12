@@ -1,16 +1,42 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/vaib-p">
+    <img width="100%" alt="Hello, I'm vaibhav pawar" src="./baner.png" />
+  </a>
+</p>
 
-<!--
-**Dhanu0407/Dhanu0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Languages and Tools :</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+    <img src="./html.svg" width="50" height="50"></img>
+    <img src="./css.svg" width="50" height="50"></img>
+    <img src="./javascript.svg" width="50" height="50"></img>
+    <img src="./react.svg" width="50" height="50"></img>
+    <img src="./mongodb.svg" width="50" height="50"></img>
+    <img src="./python.svg" width="50" height="50"></img>
+    <img src="./c.svg" width="50" height="50"></img>
+    <img src="./cpp.svg" width="50" height="50"></img>
+    <img src="./git.svg" width="50" height="50"></img>
+    <img src="./flask.svg" width="50" height="50"></img>
+    <img src="./vscode.svg" width="50" height="50"></img>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<p align="center">
+<a href="https://github.com/vaib-p">
+  <img height="180" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaib-p&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
+</a>
+<a href="https://github.com/vaib-p">
+  <img height="180" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api?username=vaib-p&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" />
+</a>
+</p>
+<br/>
+
+### Top Repositories:
+<br/>
+<p align="center">
+<a href="https://github.com/vaib-p/LGMVIP-DataScience">
+  <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=LGMVIP-DataScience&theme=radical" />
+</a>
+<a href="https://github.com/vaib-p/TextUtils">
+  <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=TextUtils&theme=radical" />
+</p>
