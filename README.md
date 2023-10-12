@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/vaib-p">
+  <a href="https://github.com/Dhanu0407">
     <img width="100%" alt="Hello, I'm Dhanashri Ghadage" src="./baner.png" />
   </a>
 </p>
@@ -38,6 +38,6 @@
 <a href="https://github.com/Dhanu0407/LGMVIP-DataScience">
   <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanu0407&repo=LGMVIP-DataScience&theme=radical" />
 </a>
-<a href="https://github.com/vaib-p/TextUtils">
+<a href="https://github.com/Dhanu0407/TextUtils">
   <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanu0407&repo=TextUtils&theme=radical" />
 </p>
